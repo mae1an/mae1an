@@ -1,40 +1,19 @@
-<!--
-  How to use: create a PUBLIC repo with exactly the same name as your GitHub username
-  (e.g. github.com/mae1an/mae1an), put this file in it as README.md.
-  It will show at the top of your profile.
--->
+### Hi, I'm Maelan 👋
 
-### Hey, I'm Maelan 👋
-
-I build **native Apple apps and SaaS products** — mostly Swift/SwiftUI on the Mac and iPhone, and TypeScript on the web.
-I like tools that solve a problem I actually have, and polishing them until they feel like they ship with macOS.
-
-- 🔨 Currently building **[Brise](https://github.com/mae1an/brise)**: a menu bar assistant for macOS (temps, fans, battery, power, command bar)
-- 🍏 Into Swift, SwiftUI, IOKit and the low-level parts of macOS
-- 🌍 French 🇫🇷 · open to freelance & collaborations
-- 📫 Reach me: <!-- add your LinkedIn / email / website here -->
-
----
-
-### 🛠 Stack
+I upload my projects here — mostly Mac & iPhone apps built with Swift.
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🚀 Projects
+#### Projects
 
-| Project | What it does | Built with |
-|---|---|---|
-| 🌬️ **[Brise](https://github.com/mae1an/brise)** | Menu bar assistant for macOS: temps, fan control, lid-closed mode, battery limit, ⌥Space command bar | Swift · SwiftUI · IOKit · C |
-| <!-- next project --> | | |
+<a href="https://github.com/mae1an/brise"><img src="https://raw.githubusercontent.com/mae1an/brise/main/docs/logo.png" width="20" align="center"></a> **[Brise](https://github.com/mae1an/brise)** — keep your Mac cool from the menu bar
 
-<!--
-Optional stats card (remove if you prefer a cleaner look):
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mae1an&layout=compact&hide_border=true" height="140">
--->
+🔨 **[Whack-a-Mole](https://github.com/mae1an/whack-a-mole)** — the classic whack-a-mole game, in Python
