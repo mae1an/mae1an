@@ -9,7 +9,7 @@
 I build **native Apple apps and SaaS products** — mostly Swift/SwiftUI on the Mac and iPhone, and TypeScript on the web.
 I like tools that solve a problem I actually have, and polishing them until they feel like they ship with macOS.
 
-- 🔨 Currently building **[Brise](https://github.com/mae1an/brise)**: a menu bar app to watch temperatures and control fans on macOS
+- 🔨 Currently building **[Brise](https://github.com/mae1an/brise)**: a menu bar assistant for macOS (temps, fans, battery, power, command bar)
 - 🍏 Into Swift, SwiftUI, IOKit and the low-level parts of macOS
 - 🌍 French 🇫🇷 · open to freelance & collaborations
 - 📫 Reach me: <!-- add your LinkedIn / email / website here -->
@@ -31,7 +31,7 @@ I like tools that solve a problem I actually have, and polishing them until they
 
 | Project | What it does | Built with |
 |---|---|---|
-| 🌬️ **[Brise](https://github.com/mae1an/brise)** | Menu bar app: live CPU/GPU temps, fan control, auto boost, system stats | Swift · SwiftUI · IOKit · C |
+| 🌬️ **[Brise](https://github.com/mae1an/brise)** | Menu bar assistant for macOS: temps, fan control, lid-closed mode, battery limit, ⌥Space command bar | Swift · SwiftUI · IOKit · C |
 | <!-- next project --> | | |
 
 <!--
