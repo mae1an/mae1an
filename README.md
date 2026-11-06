@@ -14,6 +14,6 @@ I upload my projects here — mostly Mac & iPhone apps built with Swift.
 
 #### Projects
 
-<a href="https://github.com/mae1an/brise"><img src="https://raw.githubusercontent.com/mae1an/brise/main/docs/logo.png" width="20" align="center"></a> **[Brise](https://github.com/mae1an/brise)** — keep your Mac cool from the menu bar
+<a href="https://github.com/mae1an/brise"><img src="https://raw.githubusercontent.com/mae1an/brise/main/docs/logo.png" width="20" align="center"></a> **[Brise](https://github.com/mae1an/brise)** — a menu bar toolkit to tweak your Mac: fans, sleep, battery & more
 
 🔨 **[Whack-a-Mole](https://github.com/mae1an/whack-a-mole)** — the classic whack-a-mole game, in Python
