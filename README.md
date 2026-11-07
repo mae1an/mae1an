@@ -14,8 +14,8 @@ I upload my projects here — mostly Mac & iPhone apps built with Swift.
 
 #### Projects
 
-<a href="https://github.com/mae1an/RenaultDiag"><img src="https://raw.githubusercontent.com/mae1an/RenaultDiag/main/ScenicDiag/Assets.xcassets/AppIcon.appiconset/icon.png" width="20" align="center"></a> **[RenaultDiag](https://github.com/mae1an/RenaultDiag)** — an iPhone app to scan every ECU of a Renault and clear dashboard faults over OBD2
-
 <a href="https://github.com/mae1an/brise"><img src="https://raw.githubusercontent.com/mae1an/brise/main/docs/logo.png" width="20" align="center"></a> **[Brise](https://github.com/mae1an/brise)** — a menu bar toolkit to tweak your Mac: fans, sleep, battery & more
+
+<a href="https://github.com/mae1an/RenaultDiag"><img src="https://raw.githubusercontent.com/mae1an/RenaultDiag/main/ScenicDiag/Assets.xcassets/AppIcon.appiconset/icon.png" width="20" align="center"></a> **[RenaultDiag](https://github.com/mae1an/RenaultDiag)** — an iPhone app to scan every ECU of a Renault and clear dashboard faults over OBD2
 
 🔨 **[Whack-a-Mole](https://github.com/mae1an/whack-a-mole)** — the classic whack-a-mole game, in Python
